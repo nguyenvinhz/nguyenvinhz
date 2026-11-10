@@ -18,12 +18,6 @@ and turning what I learn into practical projects.
 
 I'm Vinh, a developer from Vietnam learning through hands-on projects.
 
-- ☕ Building Java web applications with Servlet, JSP, JPA, and Hibernate.
-- ⚛️ Developing web interfaces with React and JavaScript.
-- 🧠 Exploring AI search algorithms, constraint satisfaction, and game solving with Python.
-- 🗄️ Working with relational databases, authentication, and payment integrations.
-- 🚀 Gaining experience with automated testing, GitHub Actions, and AWS EC2 deployment.
-
 ## 🛠️ Technologies I've Used
 
 **Languages**
