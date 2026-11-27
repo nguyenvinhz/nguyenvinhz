@@ -2,10 +2,9 @@
 
 ## About Me
 
-- 🌱 Currently learning Software Development and Artificial Intelligence.
-- 💻 Interested in Web Development, Machine Learning, and Algorithms.
-- 📚 Building personal projects to improve my programming skills.
-- 🎯 Always learning and exploring new technologies.
+- 🌱 Cur- 💻 Interested in Software Development and Artificial Intelligence.
+- 📚 Currently improving my programming and problem-solving skills.
+- 🚀 Learning by building small projects.
 
 ## Technologies & Tools
 
